@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Me chamo Kelly Taveira 👋
 
 - 🔭 Atualmente trabalho com tributação corporativa e análise financeira.
 - 🌱 Tenho interesse por tecnologia, inteligência artificial, economia, finanças, e por ser curiosa estou aprendendo a programar.  
