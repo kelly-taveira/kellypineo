@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atualmente trabalho com tributação corporativa e análise financeira.
-- 🌱 Tenho interesse por tecnologia, inteligência artificial, economia e finanças, e por ser curiosa estou aprendendo a programar.  
+- 🌱 Tenho interesse por tecnologia, inteligência artificial, economia, finanças, e por ser curiosa estou aprendendo a programar.  
 - 😄 Ela/Dela
 
 
