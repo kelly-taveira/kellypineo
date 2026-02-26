@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Atualmente trabalho com tributação corporativa e análise financeira.
+- 🌱 Tenho interesse por tecnologia, inteligência artificial, economia e finanças, e por ser curiosa estou aprendendo a programar.  
+- 😄 Ela/Dela
+
+
 <!--
 **KellyPineo/KellyPineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Página em desenvolvimento. Aguardem! ![](https://user-images.githubusercontent.com/101527297/160304355-00807ade-d7a2-4ac4-9630-786dd5346840.gif)
 
